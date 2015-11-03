@@ -23,7 +23,7 @@
     "hardware": {
       "clocks": {
         "nrf": {
-          "lfclk_rc": true
+          "lfclk_src": 0
         }
       },
       "pins": {
