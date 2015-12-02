@@ -1,8 +1,8 @@
 {
   "name": "bbc-microbit-armcc",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "inherits": {
-    "nordic-nrf51822-armcc": "^0.0.1"
+    "nordic-nrf51822-armcc": "^1.0.0"
   },
   "description": "Official mbed build target for the BBC micro:bit chip.",
   "licenses": [
